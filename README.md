@@ -1,0 +1,1 @@
+Following program  compares couple of sorting algorithms (permutation sort, selection sort, insertion sort, bubble sort, quic sort, merge sort and heap sort) on sample of 1000 randomly generated arrays with 300 elements and (using python code in jupyter notebook) generates histograms visualising statistics for particular algorithms. 
